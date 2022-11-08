@@ -2,7 +2,7 @@
 
 - I’m currently a master student majoring at Data Science in the University of Queensland.
 - I’m looking for a PhD position starting in the 2024 spring.
-- Here is my personal website : https://jwwweee.github.io
+- Here is my personal website: https://jwwweee.github.io
 
 <!--
 **jwwweee/jwwweee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
