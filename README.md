@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Wei Jiang.
+
+- I’m currently a master student majoring at Data Science in the University of Queensland.
+- I’m looking for a PhD position starting in the 2024 spring.
+- Here is my peasonal website : https://jwwweee.github.io
 
 <!--
 **jwwweee/jwwweee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
